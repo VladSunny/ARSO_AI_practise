@@ -12,3 +12,4 @@ wheels/
 # ML stuff
 *.csv
 *.zip
+*.pth
