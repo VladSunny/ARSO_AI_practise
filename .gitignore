@@ -13,3 +13,6 @@ wheels/
 *.csv
 *.zip
 *.pth
+*.tar
+*.gz
+cifar*/
