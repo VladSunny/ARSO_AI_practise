@@ -16,6 +16,7 @@ dependencies = [
     "nltk>=3.9.3",
     "optuna>=4.7.0",
     "pandas>=2.3.3",
+    "scikit-image>=0.25.2",
     "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
     "torch>=2.10.0",
