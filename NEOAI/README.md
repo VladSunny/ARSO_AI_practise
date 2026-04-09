@@ -1,0 +1,1 @@
+https://www.kaggle.com/competitions/neoai-2025/overview
